@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IPwXH3FDHjwANsS8D0mNLN8x4da3SL/Wr57e34ed/txldJdOE0FMizMBpfdu04P9bfEGS2UjeejoSGAz5zRylQ==",
+  "success": true,
+  "projectFilePath": "C:\\Dev\\FSharp\\DelimitedCont\\DelimitedCont.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Matthew Doig\\.nuget\\packages\\fsharp.core\\6.0.1\\fsharp.core.6.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
